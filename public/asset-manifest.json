@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a01b200.chunk.css",
-    "main.js": "/static/js/main.4d2d6893.chunk.js",
-    "main.js.map": "/static/js/main.4d2d6893.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4c600543.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4c600543.js.map",
-    "static/css/2.c217440f.chunk.css": "/static/css/2.c217440f.chunk.css",
-    "static/js/2.fe68e554.chunk.js": "/static/js/2.fe68e554.chunk.js",
-    "static/js/2.fe68e554.chunk.js.map": "/static/js/2.fe68e554.chunk.js.map",
-    "static/js/3.b05520a6.chunk.js": "/static/js/3.b05520a6.chunk.js",
-    "static/js/3.b05520a6.chunk.js.map": "/static/js/3.b05520a6.chunk.js.map",
+    "main.css": "/static/css/main.83de2a7a.chunk.css",
+    "main.js": "/static/js/main.1caeb482.chunk.js",
+    "main.js.map": "/static/js/main.1caeb482.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9cdd4599.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9cdd4599.js.map",
+    "static/css/2.9086f09a.chunk.css": "/static/css/2.9086f09a.chunk.css",
+    "static/js/2.bb757a2d.chunk.js": "/static/js/2.bb757a2d.chunk.js",
+    "static/js/2.bb757a2d.chunk.js.map": "/static/js/2.bb757a2d.chunk.js.map",
+    "static/js/3.f591947e.chunk.js": "/static/js/3.f591947e.chunk.js",
+    "static/js/3.f591947e.chunk.js.map": "/static/js/3.f591947e.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.c217440f.chunk.css.map": "/static/css/2.c217440f.chunk.css.map",
-    "static/css/main.4a01b200.chunk.css.map": "/static/css/main.4a01b200.chunk.css.map",
-    "static/js/2.fe68e554.chunk.js.LICENSE.txt": "/static/js/2.fe68e554.chunk.js.LICENSE.txt",
+    "static/css/2.9086f09a.chunk.css.map": "/static/css/2.9086f09a.chunk.css.map",
+    "static/css/main.83de2a7a.chunk.css.map": "/static/css/main.83de2a7a.chunk.css.map",
+    "static/js/2.bb757a2d.chunk.js.LICENSE.txt": "/static/js/2.bb757a2d.chunk.js.LICENSE.txt",
+    "static/media/launch.css": "/static/media/token_set_board.85c53b19.png",
     "static/media/blog.css": "/static/media/pad.32984c33.png",
     "static/media/homepage.css": "/static/media/stroy_pad_background.52d7006c.png",
-    "static/media/charactersale.css": "/static/media/market_ranklis_back.a22399bf.png"
+    "static/media/charactersale.css": "/static/media/market_ranklis_back.a22399bf.png",
+    "static/media/notifications.css": "/static/media/notification.c5d9251e.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.4c600543.js",
-    "static/css/2.c217440f.chunk.css",
-    "static/js/2.fe68e554.chunk.js",
-    "static/css/main.4a01b200.chunk.css",
-    "static/js/main.4d2d6893.chunk.js"
+    "static/js/runtime-main.9cdd4599.js",
+    "static/css/2.9086f09a.chunk.css",
+    "static/js/2.bb757a2d.chunk.js",
+    "static/css/main.83de2a7a.chunk.css",
+    "static/js/main.1caeb482.chunk.js"
   ]
 }
